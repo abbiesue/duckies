@@ -1,0 +1,22 @@
+{
+  "name": "duckies",
+  "version": "0.0.0",
+  "description": "My first website!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abbiesue/duckies.git"
+  },
+  "author": "Abbie Sue <stronglytyped+abbiesue@gmail.com>",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/abbiesue/duckies/issues"
+  },
+  "homepage": "https://github.com/abbiesue/duckies",
+  "dependencies": {
+    "express": "~4.0.0"
+  }
+}

@@ -1,0 +1,44 @@
+<html>
+<title>
+Duckies
+</title>
+<body>
+<h1>
+More about rubber duckies!
+</h1>
+<p>
+I <em> still</em> love duckies!
+</p>
+<h2>
+Here are some good reasons to buy rubber Duckies:
+</h2>
+<ul>
+<li>
+they sqeak.
+</li>
+<li>
+protection
+</li>
+<li>
+companionship
+</li>
+</ul>
+<h2>
+where to buy them:
+</h2>
+<ol>
+<li>
+Target
+</li>
+<li>
+amazon
+</li>
+<li>
+fundraisers
+</li>
+</ol>
+<h2>
+To find out more about duckies, click the link below and type Duckies.
+</h2> 
+</body>
+</html>
